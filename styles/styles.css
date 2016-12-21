@@ -1,0 +1,23 @@
+.img {
+	text-align: center;
+}
+  
+.venn {
+  height: 200px;
+  width: 200px;
+  float: left;
+  border-radius: 50%;
+}
+
+
+.green {
+  background-color: rgba(0, 255, 0, .5);
+  position: relative;
+  left: 50px;
+}
+
+.blue {
+  background-color: rgba(0, 0, 255, .5);
+  position: relative;
+  left: -50px;  
+}
